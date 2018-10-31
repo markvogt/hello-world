@@ -22,3 +22,6 @@ Here is another edit (and some formatting) AFTER having set several git-related 
 > git config --global user.name "Mark Vogt" and 
 > git config --global user.email "markevogt@outlook.com" 
 
+# 2018 10 30 e
+Here is another edit from an instance of vscode running in a Raspberry Pi 3 B+ microprocessor and a local repo stored on that Raspberry Pi...
+
