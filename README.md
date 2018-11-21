@@ -25,3 +25,7 @@ Here is another edit (and some formatting) AFTER having set several git-related 
 # 2018 10 30 e
 Here is another edit from an instance of vscode running in a Raspberry Pi 3 B+ microprocessor and a local repo stored on that Raspberry Pi...
 
+# 2018 11 21 MV: 
+
+PRACTICED using this repo with new teammate Raj and veteran teammate Amruta... 
+
